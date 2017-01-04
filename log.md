@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 1: January 3, 2017
+### Day 0: January 3, 2017
 
 Today's Progress
 
@@ -11,3 +11,12 @@ My Project:
 
 http://codepen.io/HighFlyer/full/dOEjyq/
 
+### Day 1: January 4, 2017
+
+Today's progress
+
+Done fifth challenge of Javascript30 and created Flex panels image gallery. I should learn more about CSS Flexbox I guess.
+
+My Project:
+
+https://highflyer910.github.io/Slider/
