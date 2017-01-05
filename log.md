@@ -20,3 +20,9 @@ Done fifth challenge of Javascript30 and created Flex panels image gallery. I sh
 My Project:
 
 https://highflyer910.github.io/Slider/
+
+### Day 2: January 5, 2017
+
+Today's progress
+
+I started to understand flexbox more deeply, worked with Jquery's some new methods and tried to understand is javascript a pass-by value or pass-by-reference language.
