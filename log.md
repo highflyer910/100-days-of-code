@@ -26,3 +26,5 @@ https://highflyer910.github.io/Slider/
 Today's progress
 
 I started to understand flexbox more deeply, worked with Jquery's some new methods and tried to understand is javascript a pass-by value or pass-by-reference language.
+Done 3rd project of Javascript30 challenge:
+https://highflyer910.github.io/CSS_variables/
