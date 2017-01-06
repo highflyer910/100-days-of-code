@@ -15,7 +15,7 @@ http://codepen.io/HighFlyer/full/dOEjyq/
 
 Today's progress
 
-Done fifth challenge of Javascript30 and created Flex panels image gallery. I should learn more about CSS Flexbox I guess.
+Created Flex panels image gallery. I should learn more about CSS Flexbox I guess.
 
 My Project:
 
@@ -33,4 +33,4 @@ https://highflyer910.github.io/CSS_variables/
 
 Today's progress
 
-Worked with Jquery and Javascript. 
+Worked with Jquery and Javascript. Learned more about flexbox on Wesbos' Flexbox20
