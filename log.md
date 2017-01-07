@@ -34,3 +34,10 @@ https://highflyer910.github.io/CSS_variables/
 Today's progress
 
 Worked with Jquery and Javascript. Learned more about flexbox on Wesbos' Flexbox20
+
+### Day 4: January 7, 2017
+
+Today's progress
+
+Started a new challenge - portfolio for FCC:
+http://codepen.io/HighFlyer/full/WRvJqv/
