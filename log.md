@@ -39,5 +39,14 @@ Worked with Jquery and Javascript. Learned more about flexbox on Wesbos' Flexbox
 
 Today's progress
 
-Started a new challenge - portfolio for FCC:
-http://codepen.io/HighFlyer/full/WRvJqv/
+Started a new challenge - portfolio for FCC
+
+### Day 5: January 8, 2017
+
+Today's progress
+
+Finished portfolio challenge for FCC
+
+My project: 
+
+https://highflyer910.github.io/portfolio/
