@@ -50,3 +50,9 @@ Finished portfolio challenge for FCC
 My project: 
 
 https://highflyer910.github.io/portfolio/
+
+### Day 6: January 9, 2017
+
+Today's progress
+
+Worked with Jquery plugins, JS and Flexbox
