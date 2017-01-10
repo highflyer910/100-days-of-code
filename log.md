@@ -56,3 +56,9 @@ https://highflyer910.github.io/portfolio/
 Today's progress
 
 Worked with Jquery plugins, JS and Flexbox
+
+### Day 6: January 10, 2017
+
+Today's progress
+
+Finished Jquery course on Udemy, understood much better Flexbox
