@@ -62,3 +62,9 @@ Worked with Jquery plugins, JS and Flexbox
 Today's progress
 
 Finished Jquery course on Udemy, understood much better Flexbox
+
+### Day 7: January 11, 2017
+
+Today's progress
+
+Worked with JS with Udemy and CSS3 later
