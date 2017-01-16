@@ -75,3 +75,8 @@ Today's progress:
 
 Started learning DOM 
 
+### Day 9: January 15, 2017
+
+Today's progress:
+
+Worked on DOM, and flexboxes
