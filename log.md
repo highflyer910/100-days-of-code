@@ -80,3 +80,9 @@ Started learning DOM
 Today's progress:
 
 Worked on DOM, and flexboxes
+
+### Day 10: January 16, 2017
+
+Today's progress:
+
+worked with DOM on Udemy, functions on FCC, objects on Rithm School. Started making my portfolio site finally.
