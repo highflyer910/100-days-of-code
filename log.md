@@ -86,3 +86,9 @@ Worked on DOM, and flexboxes
 Today's progress:
 
 worked with DOM on Udemy, functions on FCC, objects on Rithm School. Started making my portfolio site finally.
+
+### Day 11: January 17, 2017
+
+Today's progress:
+
+Learned making animations with DOM, started to learn how to use Emmet, continued to build my portfolio
