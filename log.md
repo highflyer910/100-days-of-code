@@ -92,3 +92,9 @@ worked with DOM on Udemy, functions on FCC, objects on Rithm School. Started mak
 Today's progress:
 
 Learned making animations with DOM, started to learn how to use Emmet, continued to build my portfolio
+
+### Day 12: January 18, 2017
+
+Today's progress:
+
+Continued learning DOM, worked with JS, trained on Flexbox, worked on my portfolio
