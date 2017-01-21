@@ -98,3 +98,15 @@ Learned making animations with DOM, started to learn how to use Emmet, continued
 Today's progress:
 
 Continued learning DOM, worked with JS, trained on Flexbox, worked on my portfolio
+
+### Day 13: January 19, 2017
+
+Today's progress
+
+Worked on my portfolio, FlexBox, JS
+
+### Day 14: January 20, 207
+
+Today's progress:
+
+Tried some Jquery plugins for my portfolio
