@@ -105,8 +105,20 @@ Today's progress
 
 Worked on my portfolio, FlexBox, JS
 
-### Day 14: January 20, 207
+### Day 14: January 20, 2017
 
 Today's progress:
 
 Tried some Jquery plugins for my portfolio
+
+### Day 15: January 22, 2017
+
+Today's progress:
+
+Worked with DOM and JS
+
+### Day 16: January 23, 2017
+
+Today's progress:
+
+Started to work on new project with odinproject.com
