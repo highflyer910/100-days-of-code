@@ -122,3 +122,13 @@ Worked with DOM and JS
 Today's progress:
 
 Started to work on new project with odinproject.com
+
+### Day 17: January 24, 2017
+
+Today's progress:
+
+Finished project Google and worked on projecteuler.com tasks with Javascript
+
+My project:
+
+https://highflyer910.github.io/Google_challenge/
