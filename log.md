@@ -132,3 +132,9 @@ Finished project Google and worked on projecteuler.com tasks with Javascript
 My project:
 
 https://highflyer910.github.io/Google_challenge/
+
+### Day 18: January 26, 2017
+
+Today's progress:
+
+Worked with Javascript 
