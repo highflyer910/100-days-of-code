@@ -138,3 +138,13 @@ https://highflyer910.github.io/Google_challenge/
 Today's progress:
 
 Worked with Javascript 
+
+### day 19: January 27, 2017
+
+Today's progress:
+
+Created a project with HTML/CSS/JS
+
+My project:
+
+https://highflyer910.github.io/robot/
