@@ -148,3 +148,9 @@ Created a project with HTML/CSS/JS
 My project:
 
 https://highflyer910.github.io/robot/
+
+### Day 20: January 30, 2017
+
+Today's progress:
+
+Worked with JS
