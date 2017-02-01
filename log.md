@@ -154,3 +154,13 @@ https://highflyer910.github.io/robot/
 Today's progress:
 
 Worked with JS
+
+### Day 21: January 31, 2017
+
+Today's progress:
+
+Worked on James Webb Telescope art with HTML5/SCSS
+
+My project:
+
+http://codepen.io/HighFlyer/full/ggvrZv/
