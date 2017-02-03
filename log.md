@@ -164,3 +164,11 @@ Worked on James Webb Telescope art with HTML5/SCSS
 My project:
 
 http://codepen.io/HighFlyer/full/ggvrZv/
+
+### Day 22: February 2, 2017
+
+Worked on jQuery and flexbox
+
+### Day 23: February 3, 2017
+
+Created flipping card (HTML/CSS)
