@@ -172,3 +172,11 @@ Worked on jQuery and flexbox
 ### Day 23: February 3, 2017
 
 Created flipping card (HTML/CSS)
+
+### Day 24: February 4, 2017
+
+started creating a game with JS
+
+### Day 25: February 5. 2017
+
+working on my game
