@@ -177,6 +177,15 @@ Created flipping card (HTML/CSS)
 
 started creating a game with JS
 
-### Day 25: February 5. 2017
+### Day 25: February 5, 2017
 
 working on my game
+
+### Day 26: February 6, 2017
+
+Finished my game
+
+My project:
+
+https://highflyer910.github.io/game/
+
