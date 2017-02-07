@@ -189,3 +189,11 @@ My project:
 
 https://highflyer910.github.io/game/
 
+### Day 27: Febryary 7, 2017
+
+Finished The Odin Project's project
+
+My project:
+
+https://highflyer910.github.io/etch_e_sketch/
+
