@@ -189,11 +189,31 @@ My project:
 
 https://highflyer910.github.io/game/
 
-### Day 27: Febryary 7, 2017
+### Day 27: February 7, 2017
 
 Finished The Odin Project's project
 
 My project:
 
 https://highflyer910.github.io/etch_e_sketch/
+
+### Day 28: February 8, 2017
+
+Worked on my portfolio
+
+### Day 29: February 9, 2017
+
+Worked on my portfolio
+
+### Day 30: February 10, 2017
+
+Tried Flexbox on my portfolio
+
+### Day 31: February 11, 2017
+
+Made rotating Jupiter just for fun
+
+My project:
+
+http://codepen.io/HighFlyer/full/NdEMww/
 
