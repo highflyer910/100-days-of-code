@@ -217,3 +217,11 @@ My project:
 
 http://codepen.io/HighFlyer/full/NdEMww/
 
+### Day 32: February 12, 2017
+
+Worked on my prtfolio new design ideas
+
+### day 33: February 13, 2017
+
+Finished flexbox course
+
